@@ -4,7 +4,7 @@ import MapView, { Marker } from 'react-native-maps';
 import axios from 'axios';
 import * as Location from 'expo-location';
 
-const API_KEY = 'AIzaSyDQZdpTXHM4TbJZhfXHAR5CvYpVilJZ8iM';
+const API_KEY = ' ';
 
 export default function Map() {
   const [gasStations, setGasStations] = useState([]);
